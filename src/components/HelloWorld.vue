@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    hi i'm hs test test test
+    hi i'm hs test test test dev branch test
   </div>
 </template>
 
